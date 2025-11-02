@@ -1,0 +1,19 @@
+{
+	"name": "african-nations-league-root",
+	"private": true,
+	"version": "1.0.0",
+	"description": "Root package.json placeholder to satisfy tools that read ../package.json",
+	"license": "MIT",
+	"dependencies": {
+		"@emotion/react": "^11.14.0",
+		"@emotion/styled": "^11.14.1",
+		"@mui/icons-material": "^7.3.4",
+		"@mui/material": "^7.3.4",
+		"axios": "^1.13.1",
+		"dotenv": "^17.2.3",
+		"firebase": "^12.5.0",
+		"mongodb": "^6.20.0",
+		"openai": "^6.7.0",
+		"react-router-dom": "^7.9.5"
+	}
+}
